@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+.git
+.vscode
+.idea
+.*ignore
+Makefile
+docker-compose.*.yml
+Dockerfile*
+.env.*
+**/*_test.go
+*.md
